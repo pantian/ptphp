@@ -1,0 +1,12 @@
+{
+    "name": "root/ptphp",
+    "type": "library",
+    "authors": [
+        {
+            "name": "pan tian",
+            "email": "pt444@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
