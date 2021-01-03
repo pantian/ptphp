@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Tool;
+namespace PTPHP\Tool;
 
 
 class Tool {
